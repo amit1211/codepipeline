@@ -1,0 +1,6 @@
+[
+    {
+        "name": "$CONTAINER_NAME",
+        "imageUri": "REPOSITORY_URI:$IMAGE_TAG"
+    }
+]
